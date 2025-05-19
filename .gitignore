@@ -161,3 +161,6 @@ cython_debug/
 *.gpkg
 *.parquet
 *.html
+/notebooks/catboost_info
+/notebooks/graphs
+/notebooks/data
