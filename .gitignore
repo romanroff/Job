@@ -164,3 +164,7 @@ cython_debug/
 /notebooks/catboost_info
 /notebooks/graphs
 /notebooks/data
+/notebooks/cache
+/.vscode
+/blocksnet
+*.zip
